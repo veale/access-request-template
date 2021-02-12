@@ -24,7 +24,7 @@ For all personal data not falling within portability, I would like to request, u
 -   **a copy sent to me in electronic format**. This includes any data derived about me, such as opinions, inferences, settings and preferences.[^4] For data that is available to the controller in machine readable format, it must be provided to me in that form in accordance with the principle of fairness and provision of data protection by design.
 
 ### If your organisation considers me a controller for whom you process
-Furthermore, if your business considers me the controller of any personal data for which your business acts as processor, please provide me **with all the data you process on my behalf in machine readable format** in accordance with your obligation to respect my to determination of the means and purposes of processing.
+Furthermore, if your business considers me the controller of any personal data for which your business acts as processor, please provide me **with all the data you process on my behalf in machine readable format** in accordance with your obligation to respect my determination of the means and purposes of processing.
 
 
 ## Metadata on processing
@@ -32,7 +32,7 @@ This request also includes the metadata I am entitled to under the GDPR.
 
 ### Information on controllers, processors, source and transfers
 
-- The **identity of of all joint controllers** of my personal data.
+- The **identity of all joint controllers** of my personal data.
 
 - Any **third parties to whom data has been disclosed**, named with contact details in accordance with Article 15(1)(c). Please note that the European data protection regulators have stated that by default, controllers should name precise recipients and not "categories" of recipients. If they do choose to name categories, they must justify why this is fair, and be specific, naming "the type of recipient (i.e. by reference to the activities it carries out), the industry, sector and sub-sector and the location of the recipients.[^3] Please note that in the case of any transferred data processed on the basis of consent, there is no option to just name categories of recipients without invalidating that legal basis.[^5]
 
