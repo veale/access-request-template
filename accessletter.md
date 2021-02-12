@@ -24,7 +24,7 @@ For all personal data not falling within portability, I would like to request, u
 -   **a copy sent to me in electronic format**. This includes any data derived about me, such as opinions, inferences, settings and preferences.[^4] For data that is available to the controller in machine readable format, it must be provided to me in that form in accordance with the principle of fairness and provision of data protection by design.
 
 ### If your organisation considers me a controller for whom you process
-Furthermore, if your business considers me the controller of any personal data for which your business acts as processor, please provide me **with all the data you process on my behalf in machine readable format** in accordance with your obligation to respect my determination of the means and purposes of processing.
+Furthermore, if your business considers me the controller of any personal data for which your business acts as processor, please provide me **with all the data you process on my behalf in machine readable format** in accordance with your obligation to respect my right to determination of the means and purposes of processing.
 
 
 ## Metadata on processing
